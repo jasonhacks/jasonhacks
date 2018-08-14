@@ -4,16 +4,15 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 published: true
 ---
-COMMIT2
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi again, my name is <strong>Anudit Verma</strong>, I am an avid open source enthusiast, contributor, and developer hailing from New Delhi, India.
+  Hi again, my name is <strong>Jason Downey</strong>, I am an avid traveler, words words words words words words words. 
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my Bachelor of Technology degree in <strong>Computer Science & Engineering (CSE) </strong>from University School of Information, Communication, and Technology (<a target="_blank" href="http://www.ipu.ac.in/usict/">USICT</a>) in New Delhi, India.
+I obtained my Masters of Science degree in <strong>Cybersecurity & Information Awareness </strong>from Western Governor's University. (<a target="_blank" href="https://www.wgu.edu/">WGU</a>) 
 </p>
 
 <p class="about-text">
