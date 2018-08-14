@@ -28,5 +28,5 @@ Also, I am very fond of video games, I love to create digital art and play aroun
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-Let’s connect if you want to collab and create something awesome in the world of open source tech. Follow the social media links given below or drop a mail <a target="_blank" href="mailto:contact@anudit.in">here</a>.
+I honestly love to meet people. Let's network, let's swap stories, let's be friends. Feel free to reach out to me and we can do something awesome together. 
 </p>
