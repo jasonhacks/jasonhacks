@@ -8,7 +8,7 @@ COMMIT3
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi again, my name is <strong>Jason Downey</strong>, I am an avid traveler, an aspiring pentester/red teamer, . 
+  Hi again, my name is <strong>Jason Downey</strong>, I am an avid traveler, an aspiring pentester/red teamer, a favorite uncle of seven kids, and a habitual giver of free pizza. 
 </p>
 
 <p class="about-text">
@@ -18,12 +18,12 @@ I obtained my Masters of Science degree in <strong>Cybersecurity & Information A
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am a programmer, software developer, and a seasoned ethical hacker, participating in various global hackathons.
+I am currently a telecommunications and network engineer who is pushing for a move into information security. I am actively pursuing my OSCP, striving to get better with Python, and always on the lookout for a good CTF. 
 </p>
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-Also, I am very fond of video games, I love to create digital art and play around with my Photoshop skills, apart from these I love listening to music, occasional cooking, and enjoy reading <a target="_blank" href="https://www.anudit.in/books/">books</a>. Eager in meeting new people, to connect, discuss, network and grow, mostly at software developers’ conferences, dev-fests, and gaming meet-ups.
+I am a big fan of Chess, motorcycle riding, and hanging out in Southeast Asia. When I need to relax you will catch me playing Legend of Zelda and eating ice cream. I am a big kid at heart.
 </p>
 
 <p class="about-text">
