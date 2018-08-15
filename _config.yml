@@ -23,7 +23,7 @@ description: This is where the description goes!
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://jasonhacks.github.io/index.hmtl"
+  Home: "https://jasonhacks.github.io/"
   About Me: "aboutme"
   Learning Materials:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
