@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Go hard never go home.
 published: true
 ---
 COMMIT3
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi again, my name is <strong>Jason Downey</strong>, I am an avid traveler, words words words words words words words. 
+  Hi again, my name is <strong>Jason Downey</strong>, I am an avid traveler, an aspiring pentester/red teamer, . 
 </p>
 
 <p class="about-text">
