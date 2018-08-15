@@ -4,7 +4,6 @@ title: About Me
 subtitle: Go hard never go home.
 published: true
 ---
-COMMIT3
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
