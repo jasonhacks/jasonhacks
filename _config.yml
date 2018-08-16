@@ -25,11 +25,7 @@ description: This is where the description goes!
 navbar-links:
   Home: "https://jasonhacks.github.io/"
   About Me: "aboutme"
-  Hacking Experience: "experience"
-  Learning Materials:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Infosec Experience: "experience"
   Write Ups:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
