@@ -24,11 +24,12 @@ commit
 | :------ |:----------- |
 | DerbyCon 2012 | Louisville |
 | DerbyCon 2013 | Vaccine Impact Modelling Consortium |
-| SkydogCon 2013 | Vaccine Impact Modelling Consortium |
+| SkydogCon 2017 | Vaccine Impact Modelling Consortium |
 | DerbyCon 2014 | Using R for Fisheries Analyses |
 | Defcon 23 | Using R for Fisheries Analyses |
 | DerbyCon 2016 | Using R for Fisheries Analyses |
 | DerbyCon 2017 | Using R for Fisheries Analyses |
+| SkyDogCon 2017 | Using R for Fisheries Analyses |
 | DerbyCon 2018 | Using R for Fisheries Analyses |
 
 
