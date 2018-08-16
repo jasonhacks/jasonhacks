@@ -22,15 +22,15 @@ commit
 
 | Conference Name | Link |
 | :------ |:----------- |
-| DerbyCon 2012 | Louisville |
-| DerbyCon 2013 | Vaccine Impact Modelling Consortium |
-| SkydogCon 2017 | Vaccine Impact Modelling Consortium |
-| DerbyCon 2014 | Using R for Fisheries Analyses |
-| Defcon 23 | Using R for Fisheries Analyses |
-| DerbyCon 2016 | Using R for Fisheries Analyses |
-| DerbyCon 2017 | Using R for Fisheries Analyses |
-| SkyDogCon 2017 | Using R for Fisheries Analyses |
-| DerbyCon 2018 | Using R for Fisheries Analyses |
+| [DerbyCon 2012](https://www.derbycon.com/) |
+| [DerbyCon 2013](https://www.derbycon.com/) |
+| [SkydogCon 2017](https://www.skydogcon.com/) |
+| [DerbyCon 2014](https://www.derbycon.com/) |
+| [Defcon 23](https://www.defcon.com/) |
+| [DerbyCon 2016](https://www.derbycon.com/) 
+| [DerbyCon 2017](https://www.derbycon.com/) | 
+| [SkyDogCon 2017](https://www.skydogcon.com/) | 
+| [DerbyCon 2018](https://www.derbycon.com/) | 
 
 
 ### Boot to Root VM
