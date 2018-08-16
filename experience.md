@@ -20,8 +20,8 @@ commit
 
 ### Conferences Attended
 
-| Conference Name | Link |
-| :------ |:----------- |
+| Conference Name | 
+| :------ |
 | [DerbyCon 2012](https://www.derbycon.com/) |
 | [DerbyCon 2013](https://www.derbycon.com/) |
 | [SkydogCon 2017](https://www.skydogcon.com/) |
