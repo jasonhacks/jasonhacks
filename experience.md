@@ -5,7 +5,7 @@ subtitle: Try Harder
 published: true
 ---
 
-![https://www.hackthebox.eu/badge/image/60006](https://www.hackthebox.eu/home/users/profile/60006)]
+<script src="https://www.hackthebox.eu/badge/60006"></script>
 
 ### PenTest Engagements
 
