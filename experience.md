@@ -54,21 +54,3 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 | [SkyDogCon 2017](https://www.skydogcon.com/) | 
 | [DerbyCon 2018](https://www.derbycon.com/) | 
 
-
-### Boot to Root VM
-
-| Website | Description |
-| :------ |:----------- |
-| [repidemicsconsortium.org/](http://www.repidemicsconsortium.org/) | R Epidemics Consortium |
-| [vaccineimpact.org](https://www.vaccineimpact.org/) | Vaccine Impact Modelling Consortium |
-| [derekogle.com/fishR](http://derekogle.com/fishR/) | Using R for Fisheries Analyses |
-
-
-### CTFs Competed In
-
-| Website | Description |
-| :------ |:----------- |
-| [repidemicsconsortium.org/](http://www.repidemicsconsortium.org/) | R Epidemics Consortium |
-| [vaccineimpact.org](https://www.vaccineimpact.org/) | Vaccine Impact Modelling Consortium |
-| [derekogle.com/fishR](http://derekogle.com/fishR/) | Using R for Fisheries Analyses |
-
