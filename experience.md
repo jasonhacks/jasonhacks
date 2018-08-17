@@ -21,9 +21,9 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 <script src="https://www.hackthebox.eu/badge/60006"></script>
 
 ##### [Root-Me.org](https://www.root-me.org)
-> Challenges: 40 Points 5/305
-> Place: 50426/92844
-> Rank: newbie
+* Challenges: 40 Points 5/305
+* Place: 50426/92844
+* Rank: newbie
 
 ---
 
