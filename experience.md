@@ -14,11 +14,11 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 
 ### Vulnerable VM Experience
 
-##### HackTheBox.eu
+##### [HackTheBox.eu](https://www.hackthebox.eu)
 
 <script src="https://www.hackthebox.eu/badge/60006"></script>
 
-##### Root-Me.org
+##### [Root-Me.org](https://www.root-me.org)
 ![Root-Me](https://jasonhacks.github.io/files/rootme.png)
 
 
