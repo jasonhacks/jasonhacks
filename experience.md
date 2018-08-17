@@ -5,9 +5,10 @@ subtitle: Try Harder
 published: true
 ---
 
+For non infosec experience please check out my [LinkedIn](https://www.linkedin.com/in/jasonmdowney/) or my [Resume](https://jasonhacks.github.io/files/JasonDowneyResume.pdf).
+
 ### PenTest Engagements
 
-commit
 <script src="https://www.hackthebox.eu/badge/60006"></script>
 
 ### PenTest Engagements
