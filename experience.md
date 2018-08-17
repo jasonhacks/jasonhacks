@@ -11,10 +11,14 @@ For non infosec experience please check out my [LinkedIn](https://www.linkedin.c
 
 Independently contracted for [RedSiege](https://www.redsiege.com/) performing OSINT, password cracking, and enumeration.  
 
-<script src="https://www.hackthebox.eu/badge/60006"></script>
 
 ### Vulnerable VM Experience
+
+# HackTheBox.eu
 <script src="https://www.hackthebox.eu/badge/60006"></script>
+
+# Root-Me.org
+![Root-Me](https://jasonhacks.github.io/files/rootme.PNG)
 
 ### CTF Experience
 
