@@ -23,6 +23,11 @@ I am currently a telecommunications and network engineer who is pushing for a mo
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
 I am a big fan of Chess, motorcycle riding, and hanging out in Southeast Asia. When I need to relax you will catch me playing Legend of Zelda and eating ice cream. I am a big kid at heart.
+ 
+ </p>
+ <p class="about-text">
+<span class="fa fa-globe about-icon"></span>
+The world is a pretty big place and I want to see all of it. In an effort to explore as much of it as I can I stay on the road most of the time. Over the last several years I have hitchiked across the United States twice, lived in Japan for nearly a year, spent 18 months off and on in Thailand, as well spent time in Mexico, Korea, Malaysia, and Colombia.
 </p>
 
 <p class="about-text">
