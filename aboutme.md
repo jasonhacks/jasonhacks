@@ -16,7 +16,7 @@ I obtained my Masters of Science degree in <strong>Cybersecurity & Information A
 </p>
 
 <p class="about-text">
-<span class="fa fa-code about-icon"></span>
+<span class="fa fa-id-card about-icon"></span>
 I am currently a telecommunications and network engineer who is pushing for a move into information security. I am actively pursuing my OSCP, striving to get better with Python, and always on the lookout for a good CTF. 
 </p>
 
