@@ -9,9 +9,25 @@ For non infosec experience please check out my [LinkedIn](https://www.linkedin.c
 
 ### PenTest Engagements
 
+Independently contracted for [RedSiege](https://www.redsiege.com/) performing OSINT, password cracking, and enumeration.  
+
 <script src="https://www.hackthebox.eu/badge/60006"></script>
 
-### PenTest Engagements
+### Vulnerable VM Experience
+<script src="https://www.hackthebox.eu/badge/60006"></script>
+
+### CTF Experience
+
+| Website | Description |
+| :------ |:----------- |
+| Derbycon 2016 |  |
+| Derbycon 2017 |  |
+| SkydogCon 2017 | Boot2Root VM Competition |
+| Derbycon 2016 |  |
+
+<script src="https://www.hackthebox.eu/badge/60006"></script>
+
+### Vulnerable VM Experience
 
 | Website | Description |
 | :------ |:----------- |
