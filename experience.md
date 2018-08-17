@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Experience?
-subtitle: Try Harder
+title: Experience
+subtitle: It isn't real until you experience it. 
 published: true
 ---
 
