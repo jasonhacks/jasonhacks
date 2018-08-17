@@ -36,17 +36,17 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 | SkydogCon 2017 | Boot2Root VM Competition |
 
 ---
+<!--
+### Vulnerable VM Experience
 
-# ### Vulnerable VM Experience
-
-# | Website | Description |
-# | :------ |:----------- |
-# | [repidemicsconsortium.org/](http://www.repidemicsconsortium.org/) | R Epidemics Consortium |
-# | [vaccineimpact.org](https://www.vaccineimpact.org/) | Vaccine Impact Modelling Consortium |
-# | [derekogle.com/fishR](http://derekogle.com/fishR/) | Using R for Fisheries Analyses |
+| Website | Description |
+| :------ |:----------- |
+| [repidemicsconsortium.org/](http://www.repidemicsconsortium.org/) | R Epidemics Consortium |
+| [vaccineimpact.org](https://www.vaccineimpact.org/) | Vaccine Impact Modelling Consortium |
+| [derekogle.com/fishR](http://derekogle.com/fishR/) | Using R for Fisheries Analyses |
 
 ---
-
+--->
 ### Conferences Attended
 
 | Conference Name | 
