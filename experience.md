@@ -11,6 +11,7 @@ For non infosec experience please check out my [LinkedIn](https://www.linkedin.c
 
 Independently contracted for [RedSiege](https://www.redsiege.com/) performing OSINT, password cracking, and enumeration.  
 
+---
 
 ### Vulnerable VM Experience
 
@@ -22,6 +23,7 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 ##### [Root-Me.org](https://www.root-me.org)
 ![Root-Me](https://jasonhacks.github.io/files/rootme.png)
 
+---
 
 ### CTF Experience
 
@@ -32,6 +34,8 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 | SkydogCon 2017 | Boot2Root VM Competition |
 | Derbycon 2016 |  |
 
+---
+
 ### Vulnerable VM Experience
 
 | Website | Description |
@@ -39,6 +43,8 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 | [repidemicsconsortium.org/](http://www.repidemicsconsortium.org/) | R Epidemics Consortium |
 | [vaccineimpact.org](https://www.vaccineimpact.org/) | Vaccine Impact Modelling Consortium |
 | [derekogle.com/fishR](http://derekogle.com/fishR/) | Using R for Fisheries Analyses |
+
+---
 
 ### Conferences Attended
 
