@@ -34,6 +34,7 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 | Derbycon 2016 |  |
 | Derbycon 2017 |  |
 | SkydogCon 2017 | Boot2Root VM Competition |
+| WhiteHat Grad Prix 2018 Quals |  |
 
 ---
 <!--
