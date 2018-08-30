@@ -13,6 +13,12 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 
 ---
 
+### Offensive Security Training
+
+Pentesting With Kali Linux - Currently pursuing my OSCP
+
+---
+
 ### Vulnerable VM Experience
 
 
