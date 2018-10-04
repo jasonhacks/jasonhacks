@@ -14,11 +14,10 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 ---
 
 ### Offensive Security Training
-
-Pentesting With Kali Linux - Currently pursuing my OSCP
-Cybrary IT - Penetration Testing & Ethical Hacking
-Cybrary IT - Web Application Penetration Testing
-Cybrary IT - Python for Security Professionals 
+* Pentesting With Kali Linux - Currently pursuing my OSCP
+* Cybrary IT - Penetration Testing & Ethical Hacking
+* Cybrary IT - Web Application Penetration Testing
+* Cybrary IT - Python for Security Professionals 
 
 ---
 
@@ -38,6 +37,7 @@ Cybrary IT - Python for Security Professionals
 * Introduction Badge
 * Essential Badge
 * White Badge
+
 ---
 
 ### CTF Experience
