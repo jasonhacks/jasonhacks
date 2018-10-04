@@ -69,7 +69,7 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 | :------ |
 | [DerbyCon 2012](https://www.derbycon.com/) |
 | [DerbyCon 2013](https://www.derbycon.com/) |
-| [SkydogCon 2017](https://www.skydogcon.com/) |
+| [SkydogCon 2014](https://www.skydogcon.com/) |
 | [DerbyCon 2014](https://www.derbycon.com/) |
 | [Defcon 23](https://www.defcon.com/) |
 | [DerbyCon 2016](https://www.derbycon.com/) 
