@@ -33,7 +33,7 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 * Place: 50426/92844
 * Rank: newbie
 
-##### [Pentester Lab Pro] (https://pentesterlab.com)
+##### [Pentester Lab Pro](https://pentesterlab.com)
 * Introduction Badge
 * Essential Badge
 * White Badge
