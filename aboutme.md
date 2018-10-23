@@ -32,5 +32,5 @@ The world is a pretty big place and I want to see all of it. In an effort to exp
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-I honestly love to meet people. Let's network, let's swap stories, let's be friends. Feel free to reach out to me and we can do something awesome together. Check out my social media links below or email me directly <a target="_blank" href="mailto:jason@jasonhacks.com">here</a>.
+I honestly love to meet people. Let's network, let's swap stories, let's be friends. Feel free to reach out to me and we can do something awesome together. Check out my social media links below or email me directly <a target="_blank" href="mailto:jason@hackandbackpack.com">here</a>.
 </p>
