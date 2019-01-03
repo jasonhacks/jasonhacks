@@ -9,7 +9,8 @@ For non infosec experience please check out my [LinkedIn](https://www.linkedin.c
 
 ### PenTest Engagements
 
-Independently contracted for [RedSiege](https://www.redsiege.com/) performing OSINT, password cracking, and enumeration.  
+Independently contracted for [RedSiege](https://www.redsiege.com/) performing OSINT, password cracking, and enumeration.
+For an example of my write-up capabilities please view my [Example Write-Up](https://jasonhacks.github.io/files/JasonDowneyEvilCorpReport.doc)
 
 ---
 
@@ -19,6 +20,7 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 * Cybrary IT - Web Application Penetration Testing
 * Cybrary IT - Python for Security Professionals 
 * PentesterAcademy - Python for Pentesters
+
 ---
 
 ### CTF Experience
