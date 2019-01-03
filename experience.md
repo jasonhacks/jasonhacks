@@ -18,26 +18,7 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 * Cybrary IT - Penetration Testing & Ethical Hacking
 * Cybrary IT - Web Application Penetration Testing
 * Cybrary IT - Python for Security Professionals 
-
----
-
-### Vulnerable VM Experience
-
-
-##### [HackTheBox.eu](https://www.hackthebox.eu)
-
-<script src="https://www.hackthebox.eu/badge/60006"></script>
-
-##### [Root-Me.org](https://www.root-me.org)
-* Challenges: 5/305 Points: 40
-* Place: 50426/92844
-* Rank: newbie
-
-##### [Pentester Lab Pro](https://pentesterlab.com)
-* Introduction Badge
-* Essential Badge
-* White Badge
-
+* PentesterAcademy - Python for Pentesters
 ---
 
 ### CTF Experience
@@ -60,6 +41,27 @@ Independently contracted for [RedSiege](https://www.redsiege.com/) performing OS
 | [repidemicsconsortium.org/](http://www.repidemicsconsortium.org/) | R Epidemics Consortium |
 | [vaccineimpact.org](https://www.vaccineimpact.org/) | Vaccine Impact Modelling Consortium |
 | [derekogle.com/fishR](http://derekogle.com/fishR/) | Using R for Fisheries Analyses |
+
+
+---
+
+### Vulnerable VM Experience
+
+
+##### [HackTheBox.eu](https://www.hackthebox.eu)
+
+<script src="https://www.hackthebox.eu/badge/60006"></script>
+
+##### [Root-Me.org](https://www.root-me.org)
+* Challenges: 5/305 Points: 40
+* Place: 50426/92844
+* Rank: newbie
+
+##### [Pentester Lab Pro](https://pentesterlab.com)
+* Introduction Badge
+* Essential Badge
+* White Badge
+
 
 ---
 --->
