@@ -10,6 +10,7 @@ For non infosec experience please check out my [LinkedIn](https://www.linkedin.c
 ### PenTest Engagements
 
 Independently contracted for [RedSiege](https://www.redsiege.com/) performing OSINT, password cracking, and enumeration.
+
 For an example of my write-up capabilities please view my [Example Write-Up](https://jasonhacks.github.io/files/JasonDowneyEvilCorpReport.doc)
 
 ---
