@@ -12,7 +12,7 @@ published: true
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my Masters of Science degree in <strong>Cybersecurity & Information Awareness </strong>from Western Governor's University. (<a target="_blank" href="https://www.wgu.edu/">WGU</a>) I hold the following certifications: CCNA R&S, CCNA Security, CEH, CHFI, Linux+, Network+, A+. 
+I obtained my Masters of Science degree in <strong>Cybersecurity & Information Awareness </strong>from Western Governor's University. (<a target="_blank" href="https://www.wgu.edu/">WGU</a>) I hold the following certifications: GCIH, CCNA R&S, CCNA Security, CEH, CHFI, Linux+, Network+, A+. 
 </p>
 
 <p class="about-text">
